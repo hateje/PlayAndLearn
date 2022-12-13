@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93764094772",
+    "project_id": "playnlearn-2456e",
+    "storage_bucket": "playnlearn-2456e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93764094772:android:9973811f5b30fe4692f361",
+        "android_client_info": {
+          "package_name": "com.example.playandlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93764094772-nvnh78ukfvg2n7aiujra05bl4i4hub79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsdGH9EGnt0BhRyFucfXvNjfv1uBB99Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93764094772-nvnh78ukfvg2n7aiujra05bl4i4hub79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

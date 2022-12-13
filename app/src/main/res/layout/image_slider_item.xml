@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--creación de un image view-->
+    <ImageView
+        android:id="@+id/idIVImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true" />
+
+    <ImageButton
+        android:id="@+id/bt_sonido"
+        style="@style/Widget.AppCompat.ImageButton"
+        android:layout_width="64dp"
+        android:layout_height="58dp"
+        android:backgroundTintMode="add"
+        android:tint="#9C27B0"
+        app:srcCompat="@drawable/ic_sonido" />
+
+</RelativeLayout>
